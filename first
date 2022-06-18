@@ -1,0 +1,6 @@
+#!/bin/bash
+
+# Print text to the script!
+
+echo 'this is my first script'
+exit 0
