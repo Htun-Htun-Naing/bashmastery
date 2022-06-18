@@ -1,0 +1,2 @@
+# bashmasterycourse
+bash pratice
