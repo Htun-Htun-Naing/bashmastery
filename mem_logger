@@ -1,0 +1,10 @@
+ME/bash_script/performance
+
+if [ -d $file ]; then
+        echo $( free -m ) > $file/memory.log
+        cat $file/memory.log
+else
+        echo "$file doesn't exits"
+        echo "type 'mkdir $file' to create "
+fi
+
