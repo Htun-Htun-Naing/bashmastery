@@ -1,2 +1,2 @@
-# bashmasterycourse
+# bashmastery
 bash pratice
